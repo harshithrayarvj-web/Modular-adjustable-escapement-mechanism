@@ -25,9 +25,9 @@
 
 I worked on making the spiral spring, then I also worked on the escapement wheel and the lever. So far the hardest part here was the spiral spring and the lever, as I did not know how to work out the math to work with 3d printing, so I overcompensated with thicker parts, and I just eyeballed the angle of the lever ends.
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/Qu0VNrUOF7aYn9gcJDXBCoaKHQqblLtM/689d142ed5110c663b9d4afcc99995773ab62f744b48e889045eafe0e5443809.png)
+![image](https://halflife.hackclub-assets.com/sessions/Qu0VNrUOF7aYn9gcJDXBCoaKHQqblLtM/689d142ed5110c663b9d4afcc99995773ab62f744b48e889045eafe0e5443809.png)
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/Qu0VNrUOF7aYn9gcJDXBCoaKHQqblLtM/2492883ec36a4a00faf91a973df65a74bd777611fc6603e8d99c61344a5fa7a1.png)
+![image](https://halflife.hackclub-assets.com/sessions/Qu0VNrUOF7aYn9gcJDXBCoaKHQqblLtM/2492883ec36a4a00faf91a973df65a74bd777611fc6603e8d99c61344a5fa7a1.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/ea30fbe3-3d15-4052-a665-377fbb75691e/video.mp4)
 
@@ -37,8 +37,8 @@ I worked on making the spiral spring, then I also worked on the escapement wheel
 
 I finished adding the springs and also added points to anchor parts to each other. I was originally thinking of adding a case but I didn't go with it since I didn't want issues with printing and I didn't have time. I was working in a huddle, so I got a lot of progress in today, especially with the escapement gear/wheel and ratchet (I'm so proud of that)
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/Qu0VNrUOF7aYn9gcJDXBCoaKHQqblLtM/6c0cf5321e66eda40b444ce13309e060488f90d2d70c2f9edfc914fc2973381b.png)
+![image](https://halflife.hackclub-assets.com/sessions/Qu0VNrUOF7aYn9gcJDXBCoaKHQqblLtM/6c0cf5321e66eda40b444ce13309e060488f90d2d70c2f9edfc914fc2973381b.png)
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/Qu0VNrUOF7aYn9gcJDXBCoaKHQqblLtM/250cf52fb91ddd84f336673a806a699c51f3853300e2c920b2a5472047e1ade0.png)
+![image](https://halflife.hackclub-assets.com/sessions/Qu0VNrUOF7aYn9gcJDXBCoaKHQqblLtM/250cf52fb91ddd84f336673a806a699c51f3853300e2c920b2a5472047e1ade0.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/45add716-0146-4453-bb27-3b94716e612f/video.mp4)
